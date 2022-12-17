@@ -7,7 +7,7 @@
 
 ## My stats
 
-<p><img width="68%" src="https://github-readme-stats.vercel.app/api?username=QapFUc&theme=onedark">
+<p align="center"><img width="68%" src="https://github-readme-stats.vercel.app/api?username=QapFUc&theme=onedark">
 <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QapFUc&theme=onedark"></p>
 
 ## Contact
