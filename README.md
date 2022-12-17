@@ -4,5 +4,5 @@
 
 ### My stats
 
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=QapFUc&theme=onedark">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QapFUc&theme=onedark"></p>
+<p><img width="68%" src="https://github-readme-stats.vercel.app/api?username=QapFUc&theme=onedark">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QapFUc&theme=onedark"></p>
