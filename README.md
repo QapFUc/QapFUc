@@ -4,14 +4,5 @@
 
 ### My stats
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=QapFUc&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: onedark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=QapFUc&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=QapFUc&show_icons=true" />
-</picture>
+<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=QapFUc&theme=onedark">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QapFUc&theme=onedark"></p>
