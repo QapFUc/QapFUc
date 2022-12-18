@@ -12,7 +12,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=oracle&text=true&animation=false&fill=red&textfill=white&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=Vim&text=true&animation=false&fill=green&textfill=white&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=Neovim&text=true&animation=false&fill=green&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=GNU bash&text=true&animation=false&fill=black&textfill=white&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=GNUbash&text=true&animation=false&fill=black&textfill=white&">
 </p>
 
 ## My stats
