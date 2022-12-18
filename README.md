@@ -5,14 +5,14 @@
 
 <p align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=true&animation=false&fill=3864c3&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=C%2B%2B&text=true&animation=false&fill=3864c3&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=CMake&text=true&animation=false&fill=3864c3&textfill=white&"> 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=ArchLinux&text=true&animation=false&fill=3864c3&textfill=white&"> 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&animation=false&fill=FE5000&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=oracle&text=true&animation=false&fill=red&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=Vim&text=true&animation=false&fill=green&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=Neovim&text=true&animation=false&fill=green&textfill=white&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=GNUbash&text=true&animation=false&fill=black&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=C%2B%2B&text=true&animation=false&fill=3864c3&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=CMake&text=true&animation=false&fill=3864c3&textfill=white&"> 
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=ArchLinux&text=true&animation=false&fill=3864c3&textfill=white&"> 
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&animation=false&fill=FE5000&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=oracle&text=true&animation=false&fill=red&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=Vim&text=true&animation=false&fill=green&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=Neovim&text=true&animation=false&fill=green&textfill=white&">
+ <img src="https://readme-components.vercel.app/api?component=logo&logo=GNUbash&text=true&animation=false&fill=black&textfill=white&"> 
 </p>
 
 ## My stats
