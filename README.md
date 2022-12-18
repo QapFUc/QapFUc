@@ -21,7 +21,7 @@
 <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QapFUc&theme=onedark"></p>
 
 ## Contact
-<p align="center"><a href="https://t.me/QapFUc" target="blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="QapFUc"/></a>
-<a href="mailto:co6aka.bafi@gmail.com" target="blank"> <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="co6aka.bafi@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/dmitriy-usov-90858525a/" target="blank"> <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dmitriy Usov"/></a>
-<a href="" target="blank"> <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=&logoColor=white" alt="Dmitriy Usov"/></a></p>
+<p align="center"><a href="https://t.me/QapFUc" target="blank">  <img src="https://readme-components.vercel.app/api?component=logo&logo=Telegram&text=true&animation=false&fill=3864c3&textfill=white&"></a>
+<a href="mailto:co6aka.bafi@gmail.com" target="blank"> <img src="https://readme-components.vercel.app/api?component=logo&logo=GMail&text=true&animation=false&fill=red&textfill=&"></a>
+<a href="https://www.linkedin.com/in/dmitriy-usov-90858525a/" target="blank"> <img src="https://readme-components.vercel.app/api?component=logo&logo=Linkedin&text=true&animation=false&fill=3864c3&textfill=white&"></a>
+<a href="" target="blank"> <img src="https://readme-components.vercel.app/api?component=logo&logo=Head Hunter&text=true&animation=false&fill=red&textfill=white&"></a></p>
