@@ -1,5 +1,5 @@
 # Hi there 👋
-#### I am a second-year student at Nizhny Novgorod University. I like math. programing and open source
+#### Student at Nizhny Novgorod University.
 
 ## My tech stack 
 
